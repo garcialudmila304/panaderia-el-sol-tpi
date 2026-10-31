@@ -16,7 +16,7 @@ El sistema propuesto es un módulo de software de **inventario y control de stoc
 **Grupo:** 6
 
 ## Contenido del repositorio
-- Modelado del proceso de negocio (BPMN):[Ver diagrama BPMN] (https://github.com/garcialudmila304/panaderia-el-sol-tpi/tree/main/documento%20diagrama)
+- Modelado del proceso de negocio (BPMN):[Ver diagrama BPMN](https://github.com/garcialudmila304/panaderia-el-sol-tpi/tree/main/documento%20diagrama)
 - Tablero de gestión ágil: [Ver tablero en GitHub Projects](https://github.com/users/garcialudmila304/projects/1)
 - Indicadores de control: ver la sección "Indicadores de control" más abajo
 
