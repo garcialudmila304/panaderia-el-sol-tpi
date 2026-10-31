@@ -16,15 +16,18 @@ El sistema propuesto es un módulo de software de **inventario y control de stoc
 **Grupo:** 6
 
 ## Contenido del repositorio
+docs/indicadores-control
 - Modelado del proceso de negocio (BPMN):[Ver diagrama BPMN](https://github.com/garcialudmila304/panaderia-el-sol-tpi/tree/main/documento%20diagrama)
 - Tablero de gestión ágil: [Ver tablero en GitHub Projects](https://github.com/users/garcialudmila304/projects/1)
 - Indicadores de control: ver la sección "Indicadores de control" más abajo
+
 
 ## Indicadores de control
 
 Estos indicadores sirven para comprobar que el sistema de control de stock funciona bien. Las metas son valores iniciales y se pueden cambiar según cómo vaya funcionando la panadería.
 
 ### 1. Exactitud del inventario
+docs/indicadores-control
 - **Qué controla:** que lo que dice el sistema sea igual a lo que realmente hay en el depósito.
 - **Meta:** 95 de cada 100 insumos con el stock correcto.
 - **Cuándo se mide:** una vez por semana, contando los insumos a mano.
